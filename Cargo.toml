@@ -1,0 +1,7 @@
+[package]
+name = "starshine"
+version = "0.1.0"
+authors = ["Nathan Franklin <Nathan.Franklin@outlook.com>"]
+edition = "2018"
+
+[dependencies]
